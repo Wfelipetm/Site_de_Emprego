@@ -34,7 +34,7 @@ import'./telalogin.css'
               />
             </div>
             <div className="d-grid gap-2 mt-3">
-            <a class="btn btn-primary" href="/dadosCad" role="button">Enviar</a>
+            <a class="btn btn-primary" href="/dadosCad" role="button">Link</a>
             </div>
           </div>
         </form>
