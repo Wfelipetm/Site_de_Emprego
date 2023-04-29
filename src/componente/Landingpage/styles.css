@@ -1,0 +1,38 @@
+#testmony-container {
+    background: url('../img/banner7.jpg') no-repeat;
+    background-size: cover;
+    padding: 10em 0;
+  }
+
+
+/* banner */
+#main-banner {
+	background: url('../img/banner6.jpg') no-repeat;
+	background-size: cover;
+	background-position: 0 55%;
+	position: relative;
+	margin-top: 100px;
+}
+
+ 
+#sendjobs-container {
+	background: url('../img/banner2.jpg') no-repeat;
+	background-size: cover;
+	background-position: 0 25%;
+	padding: 15em 0;
+}
+
+
+
+
+#search-form {
+	position: relative;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 100em;
+	padding-bottom: 15em;
+	text-align: center;
+	
+}
+

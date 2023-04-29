@@ -1,0 +1,25 @@
+
+@media screen and (max-width: 992px) {
+  #logo {
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #logo {
+    width: 10px;
+    height: 30px;
+    margin-top: 10px;
+  }
+}
+  #logo {
+	width: 60px;
+	height: 40px;
+	margin-top: 4px;
+	position: absolute;
+	top: 0;
+	left: 4px;
+	/* Outras propriedades do logo */
+  }

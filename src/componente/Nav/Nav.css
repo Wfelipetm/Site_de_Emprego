@@ -1,0 +1,14 @@
+.logo {
+  /* Move o logo 10 pixels para baixo */
+  position: relative;
+  top: 10px;
+
+  /* Move o logo 20 pixels para a direita */
+  left: 0px;
+
+  /* Move o logo 5 pixels para cima */
+  top: -5px;
+
+  /* Move o logo 15 pixels para a esquerda */
+  right: 15px;
+}
