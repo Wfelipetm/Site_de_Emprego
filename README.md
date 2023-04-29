@@ -41,6 +41,6 @@ Para instalar as dependencias, se der algum erro.
 
 Deploy do site: https://missao-certificado-mundo2.vercel.app/
 
-Link para o vídeo do Youtube do site em funcionamento: https://www.youtube.com/watch?v=5C_BWOsIUYg
+
 
 ![image](https://user-images.githubusercontent.com/108297008/226328601-fe3c651f-2b68-4edb-a381-22759417768a.png)
